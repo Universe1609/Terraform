@@ -1,0 +1,4 @@
+Este proyecto consta de crear una infraestructura completa de AWS, simultando un 
+pedido para una nueva compañia de nombre NEIM. Se deberá seguir las buenas practicas
+de terraform, luego se planea complementarlo con Ansible y despues una automatizacion con
+Jenkins o una dockearizacion con Docker.
