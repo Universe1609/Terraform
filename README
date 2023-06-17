@@ -6,3 +6,9 @@ Se comprobo que los componentes funcionan, usando los comandos init, plan, apply
 
 ![Prueba en bash]
 (https://github.com/davidrolando04/Terraform/blob/master/image/imagen_1.png)
+
+
+Los modulos no estan completos, pues se planea agregar Lambas, completar AS y ELB, añadir contenedores e imagenes, etc. 
+
+
+Ultima actualizacion del codigo hecha el dia 29/05/2023
