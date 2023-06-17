@@ -1,4 +1,8 @@
-Este proyecto consta de crear una infraestructura completa de AWS, simultando un 
-pedido para una nueva compañia de nombre NEIM. Se deberá seguir las buenas practicas
-de terraform, luego se planea complementarlo con Ansible y despues una automatizacion con
-Jenkins o una dockearizacion con Docker.
+Este miniproyecto consta de crear una infraestructura AWS con Terraform siguiendo las buenas practicas.
+
+Se modulariza los componentes, diviendolo en AUTO-SCALING, ec2, ELB, IAM, RDS, S3, VPC
+
+Se comprobo que los componentes funcionan, usando los comandos init, plan, apply y ... sin embargo no se llego a construir la infraestructura por temas de presupuesto.
+
+![Prueba en bash](images/Prueba.png)
+
