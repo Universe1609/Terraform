@@ -5,8 +5,7 @@ Se modulariza los componentes, diviendolo en AUTO-SCALING, ec2, ELB, IAM, RDS, S
 Se comprobo que los componentes funcionan, usando los comandos init, plan, apply y validate sin embargo no se llego a construir la infraestructura por temas de presupuesto.
 
 ![Prueba en bash, se contabilizaron 35 servicios]
-(https://github.com/davidrolando04/Terraform/assets/99356052/861dd245-725c-4c4e-b80e-8a4922e034a2)
-
+(https://github.com/davidrolando04/Terraform/assets/99356052/800556e4-d176-4bed-877f-b1bbd934811d)
 
 Los modulos no estan completos, pues se planea agregar Lambas, completar AS y ELB, añadir contenedores e imagenes, etc. 
 
